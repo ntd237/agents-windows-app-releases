@@ -129,7 +129,7 @@ Sau khi cài đặt hoàn thành:
 2. Nếu phiên bản mới khả dụng, người dùng sẽ nhận thông báo
 3. Nhấp nút "Cập Nhật" để tải và cài đặt phiên bản mới
 
-### Cập Nhật Thручной
+### Cập Nhật Thủ công
 
 Nếu cập nhật tự động không hoạt động:
 
