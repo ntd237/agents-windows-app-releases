@@ -41,14 +41,14 @@ Kho lưu trữ này phục vụ như một kênh phân phối công khai cho ứ
 ## Tính Năng
 
 ### Tính Năng Cơ Bản
-- ✅ Bộ cài đặt Windows (`.exe`) 64-bit
-- ✅ Chữ ký xác minh bảo mật (`.sig`)
-- ✅ Manifest cập nhật tự động (`latest.json`)
+- Bộ cài đặt Windows (`.exe`) 64-bit
+- Chữ ký xác minh bảo mật (`.sig`)
+- Manifest cập nhật tự động (`latest.json`)
 
 ### Tính Năng Bảo Mật
-- ✅ Xác minh chữ ký bằng minisign
-- ✅ Cải thiện độ tin cậy khi cài đặt
-- ✅ Phát hiện các tệp bị sửa đổi hoặc giả mạo
+- Xác minh chữ ký bằng minisign
+- Cải thiện độ tin cậy khi cài đặt
+- Phát hiện các tệp bị sửa đổi hoặc giả mạo
 
 ---
 
