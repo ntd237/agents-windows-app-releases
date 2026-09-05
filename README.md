@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Last Updated](https://img.shields.io/github/last-commit/ntd237/agents-windows-app-releases?style=flat-square)](https://github.com/ntd237/agents-windows-app-releases/commits/main)
 
-Kênh phân phối công khai cho ứng dụng riêng tư [agents-windows-app](https://github.com/ntd237/agents-windows-app): bao gồm các bộ cài đặt NSIS, chữ ký xác minh bảo mật và manifest cập nhật tự động.
+Kênh phân phối công khai cho ứng dụng Agent Windows App: bao gồm các bộ cài đặt NSIS, chữ ký xác minh bảo mật và manifest cập nhật tự động.
 
 ---
 
@@ -144,8 +144,6 @@ Nếu cập nhật tự động không hoạt động:
 ```
 agents-windows-app-releases/
 ├── README.md                          # Tài liệu này
-├── .github/
-│   └── workflows/                     # Quy trình CI/CD (nếu có)
 └── releases/                          # Tệp phát hành (tự động quản lý)
     ├── v0.1.2/
     │   ├── Agents.Windows_0.1.2_x64-setup.exe
@@ -171,7 +169,6 @@ agents-windows-app-releases/
 
 - **Email**: ntd237.work@gmail.com
 - **GitHub**: [@ntd237](https://github.com/ntd237)
-- **Repository Chính**: [agents-windows-app](https://github.com/ntd237/agents-windows-app) (riêng tư)
 
 Nếu bạn có câu hỏi hoặc phát hiện vấn đề liên quan đến các bản phát hành, vui lòng mở một [Issue](https://github.com/ntd237/agents-windows-app-releases/issues).
 
