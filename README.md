@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Last Updated](https://img.shields.io/github/last-commit/ntd237/agents-windows-app-releases?style=flat-square)](https://github.com/ntd237/agents-windows-app-releases/commits/main)
 
-Kênh phân phối công khai cho ứng dụng Agent Windows App: bao gồm các bộ cài đặt NSIS, chữ ký xác minh bảo mật và manifest cập nhật tự động.
+Kênh phân phối công khai cho ứng dụng Agent Windows: bao gồm các bộ cài đặt NSIS, chữ ký xác minh bảo mật và manifest cập nhật tự động.
 
 ---
 
