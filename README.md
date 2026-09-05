@@ -171,7 +171,3 @@ agents-windows-app-releases/
 - **GitHub**: [@ntd237](https://github.com/ntd237)
 
 Nếu bạn có câu hỏi hoặc phát hiện vấn đề liên quan đến các bản phát hành, vui lòng mở một [Issue](https://github.com/ntd237/agents-windows-app-releases/issues).
-
----
-
-**Lần cập nhật cuối**: 2026-09-05
